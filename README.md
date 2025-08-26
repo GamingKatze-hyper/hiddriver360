@@ -16,6 +16,12 @@ Experimental on-console HID driver focussing on providing third party controller
 - DualShock 4 (PS4 controller)
 - more to come, as its quite easy to extend
 
+## How to install
+1.Transfer hiddriver.xex in your Xbox 360 Root Folder
+2.Start Dashlaunch and load you config
+3.Under Plugins set hiddriver.xex as a Plugin
+4.Restart your Xbox 360 and your Controllers should work
+
 ## How to build
 1. Acquire the official Xbox 360 SDK using black magic
 2. Install visual studio 2010 ultimate and visual studio 2019
